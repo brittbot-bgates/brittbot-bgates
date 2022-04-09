@@ -2,7 +2,7 @@
 - 👀 I’m interested in:
 	- Linux
 		- I use Fedora as my daily driver.
-		- I've used CentOS for servers but no longer (haven't chosen a replacement OS yet).
+		- I use CentOS for servers.
 	- Programming Languages:
 		- Python
 		- Javascript
@@ -18,9 +18,9 @@
 	- Translating some of my Python web apps into JavaScript/Node.js web apps
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me
-	- Email: support@brittbot.com
-	- Twitter: @brittbot_bgates
-	- Website: https://brittbot.com
+	- Email: support@brittanygates.me
+	- Twitter: @bgates_writer
+	- Website: [brittanygates.me](https://brittanygates.me)
 
 <!---
 brittbot-bgates/brittbot-bgates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
