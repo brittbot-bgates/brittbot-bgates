@@ -9,18 +9,17 @@
 	- Frameworks/Libraries
 		- Frontend
 			- Bootstrap
-			- React
 		- Backend
 			- Flask
 			- Node.js
 - 🌱 I’m currently learning
-	- Improving my Python skills
-	- Translating some of my Python web apps into JavaScript/Node.js web apps
+	- Improving my JavaScript skills
+	- Translating some of my Python/Flask web apps into JavaScript/Node.js web apps
+	- Transferring my free apps from Herko to Google Cloud Platform
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me
-	- Email: support@brittanygates.me
-	- Twitter: @bgates_writer
-	- Website: [brittanygates.me](https://brittanygates.me)
+	- Email: support@bcgates.com
+	- Website: [bcgates.com](https://bcgates.com)
 
 <!---
 brittbot-bgates/brittbot-bgates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
