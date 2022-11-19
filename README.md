@@ -12,10 +12,10 @@
 		- Backend
 			- Flask
 			- Node.js
-- 🌱 I’m currently learning
-	- Improving my JavaScript skills
-	- Translating some of my Python/Flask web apps into JavaScript/Node.js web apps
-	- Transferring my free apps from Herko to Google Cloud Platform
+- 🌱 I’m currently refreshing/relearning: 
+	- JavaScript
+	- Python
+	- Databases (SQLite currently)
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me
 	- Email: support@bcgates.com
